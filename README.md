@@ -1,8 +1,7 @@
-# Manual da Comunidade GitHub for Women
-
-Bem-vinda! Este é um projeto de **documentação** feito apenas com arquivos Markdown
-(`.md`). Vamos usá-lo durante todo o curso para praticar Git e GitHub sem precisar
-escrever nenhuma linha de código de programação.
+## Manual da Comunidade - Exercício de fixação - Aula 11
+>> link correto do repositor correto, corrigido e revisado >> https://github.com/daiannec-p/manual-comunidade
+>> 
+Bem-vinda! Este é um projeto de fixação dos primeiros passos de GIT | GITHUB
 
 ## Índice
 
@@ -11,11 +10,11 @@ escrever nenhuma linha de código de programação.
 - [Como entrar em contato](contato.md)
 - [Código de conduta](codigo-de-conduta.md)
 
-## Como usar este projeto
+DAIANNE PINHEIRO
+💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica o que é o projeto e como usá-lo.
 
-1. Baixe esta pasta e abra no VS Code.
-2. Siga o guia da aula prática correspondente.
-3. Cada seção do manual vira uma oportunidade de praticar commits, branches e Pull Requests.
+Sobre a Licença
+Este exercício não está usando licença
 
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
