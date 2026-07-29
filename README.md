@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Manual da Comunidade GitHub for Women
 
 Bem-vinda! Este é um projeto de **documentação** feito apenas com arquivos Markdown
@@ -20,7 +19,3 @@ escrever nenhuma linha de código de programação.
 
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
-=======
-# Aula11-Git-GitHub
-Exercício - Pratica Guiada
->>>>>>> 1cf702c15918745b7d6c5284e0cd7874eb849d43
